@@ -1,3 +1,5 @@
+package basics;
+
 public class FindMaxAndMin {
     public static void main(String[] args) {
         int[] nums = {2,3,4,5,6,8,9,10};

@@ -1,3 +1,5 @@
+package basics;
+
 public class LargestInArray {
     public static void main(String[] args) {
         int[] nums = {2,3,4,6,7,8};

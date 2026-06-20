@@ -1,3 +1,5 @@
+package basics;
+
 public class IsArraySorted {
     public static void main(String[] args) {
         int[] nums = {2, 3, 3, 4, 6, 7, 8};

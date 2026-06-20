@@ -1,3 +1,5 @@
+package basics;
+
 public class ElementFrequency {
     public static void main(String[] args) {
         int[] nums = {2,2,2,3,4,5,2,3,3,4};

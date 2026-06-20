@@ -1,3 +1,5 @@
+package basics;
+
 public class AverageOfArray {
     public static void main(String[] args) {
         int[] nums = {2,4,6,8,3};

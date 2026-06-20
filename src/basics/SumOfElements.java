@@ -1,3 +1,5 @@
+package basics;
+
 public class SumOfElements {
     public static void main(String[] args) {
         int[] nums = {2,4,5,6,7};
